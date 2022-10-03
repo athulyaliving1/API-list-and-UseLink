@@ -1,5 +1,7 @@
 Location 	    page	                     API
 ----------------------------------------------------------------------
+http://162.241.222.86:5000/contact       testing path
+----------------------------------------------------------------------
 
 Bangalore	 |   Rehab&Physio 	   |    contactrehabphysiobangalore
 chennai	   |   Dementia care	   |    contactdementiacarechennai
