@@ -1,0 +1,17 @@
+Location 	    page	                     API
+----------------------------------------------------------------------
+
+Bangalore	 |   Rehab&Physio 	   |    contactrehabphysiobangalore
+chennai	 |   Dementia care	   |    contactdementiacarechennai
+bangalore	 |   Dementia care	   |    contactdementiacarebangalore
+hyderabad	 |   Dementia care	   |    contactdementiacarehyderabad
+cochin	 |   Dementia care	   |    contactdementiacarecochin
+coimbatore	 |   Dementia care	   |    contactdementiacarecoimbatore
+bangalore	 |   doctor on call	   |    contactdoctoroncallbangalore
+hydrabad	 |   doctor on call	   |    contactdoctoroncallhydrabad
+cochin	 |   doctor on call	   |    contactdoctoroncallcochin
+coimbatore	 |   doctor on call	   |    contactdoctoroncallcoimbatore
+bangalore	 |   medicalequipment	   |    contactmedicaleqbangalore
+chennai	 |   medicalequipment	   |    contactmedicaleqchennai
+chennai	 |   ophthalmology 	   |    contactophthalmologychennai
+chennai	 |   gynaecology	   |     contactgynaecologychennai
