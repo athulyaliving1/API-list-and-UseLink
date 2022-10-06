@@ -3,3 +3,10 @@ Git Branch
 git checkout -b <Branch>
 git commit -m "commit Message"
 git push --set-upstream origin <Branch>
+
+
+
+-------------------------------------
+git add .
+git commit -m "commit Message"
+git push -u origin 
