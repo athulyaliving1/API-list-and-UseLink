@@ -12,3 +12,28 @@ Random image
 
 animation  and Tools
 https://www.framer.com/docs
+
+
+What is moment in react?
+Image result for Moment,For this, we'll be using a library called moment js. 
+A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+https://momentjs.com/
+
+
+What is ESLint used for in React?
+ESlint is an open-source library that's commonly used by React developers to enforce rules about maintaining the code standard across the project.
+It's fully customizable so you can configure the desired rules yourself. Linintng your code can help you spot any would be bugs.
+https://eslint.org/
+
+
+What is Formik used for?
+Formik is a small group of React components and hooks for building forms in React and React Native. 
+It helps with the three most annoying parts: Getting values in and out of form state. Validation and error messages.
+https://formik.org/
+
+
+What is React Hook Form 
+React Hook Form is a library that helps you validate forms in React. 
+It is a minimal library without any other dependencies,
+while being performant and straightforward to use, requiring developers to write fewer lines of code than other form libraries
+https://react-hook-form.com/
